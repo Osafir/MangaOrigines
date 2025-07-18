@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Extension corrigée pour Mangas Origines",
   "main": "src/MangaOrigines.ts",
-  "author": "Toi",
+  "author": "Osafir",
   "buildTime": 1720000000
 }
